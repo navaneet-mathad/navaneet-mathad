@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
 
 # Navaneet Mathad
 
@@ -60,3 +60,4 @@ A 30-month roadmap sequencing Linux, networking, CTF prep, model extraction, and
 <div align="center">
 <sub>📍 Bengaluru, India · <a href="mailto:navaneetmathad866@gmail.com">navaneetmathad866@gmail.com</a></sub>
 </div>
+](https://matrix-internal.oss-us-east-1.aliyuncs.com/Mavis/530850833517543427/files/421417914822841/README.md?Expires=1784450179&OSSAccessKeyId=LTAI5tRgbJ63ieNp3YeXRwFH&Signature=Cmx39wubFrUkPqvQOL%2BbtmQgAlA%3D)](https://matrix-internal.oss-us-east-1.aliyuncs.com/Mavis/530850833517543427/files/421417914822841/README.md?Expires=1784450179&OSSAccessKeyId=LTAI5tRgbJ63ieNp3YeXRwFH&Signature=Cmx39wubFrUkPqvQOL%2BbtmQgAlA%3D)
