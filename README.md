@@ -1,126 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer+in+the+Making;Machine+Learning+%26+Data+Science;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/navaneet-mathad"><img src="https://img.shields.io/github/followers/navaneet-mathad?style=for-the-badge&logo=github"></a>
-  <img src="https://komarev.com/ghpvc/?username=navaneet-mathad&style=for-the-badge">
-  <a href="https://www.linkedin.com/in/navaneetmathad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+# Navaneet Mathad
 
----
+**CS Engineering Student · AI Security & Full-Stack Builder**
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneetmathad)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navaneetmathad866@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/navaneetmathad)
 
-I'm an aspiring **AI Engineer** passionate about building intelligent systems that combine **Machine Learning, Data Science, and Full Stack Development**.
-
-I enjoy solving challenging problems with **Data Structures & Algorithms**, exploring modern AI technologies, and turning ideas into impactful products.
-
-### 🎯 Current Focus
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- 🌐 Full Stack Applications
-- 🌍 Open Source Contributions
+</div>
 
 ---
 
-## 🛠 Tech Stack
+### About
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
-</p>
+I'm a Computer Science Engineering student at M.S. Ramaiah University of Applied Sciences, Bengaluru (CGPA: 9.62/10.00), and I learn a subject by building something real with it rather than just finishing a course.
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite"/>
-</p>
+That's produced three deployed products so far: a Chrome extension that scans email for phishing links in real time, an AI-powered career recommendation platform, and a self-designed 30-month roadmap for AI security. Right now I'm working through that roadmap myself — Linux, networking, CTFs, model extraction, and LLM red-teaming — while also going deeper on data structures & algorithms.
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
+Open to internships, collaborations, and open-source work in AI/ML and full-stack development.
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase"/>
-</p>
+### Tech Stack
 
-### AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
+**Languages:** Python, Java, SQL, JavaScript, TypeScript, HTML, CSS
+**Web:** React, Next.js, Node.js, Tailwind CSS, Chrome Extensions API
+**AI:** LLM Integration
+**Tools:** Git, GitHub, Vercel
+**Core CS:** Data Structures & Algorithms, Object-Oriented Programming
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn">
-</p>
+### Projects
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
-</p>
+**[Mailedit](https://orchids-phishguard-real-time-protec-ten.vercel.app)** — Phishing Warning Web App & Chrome Extension
+Extracts URLs from user-submitted or visible email content, checks them via live threat lookups, and returns a threat score with a safe/phishing verdict. Includes content scripts for Gmail and Outlook that flag suspicious links in-page.
+`JavaScript` `React` `Node.js` `Chrome Extensions API`
 
----
+**[NextGen Careers](https://nextgencareers.vercel.app)** — AI Career Recommendation Platform
+Recommends career paths across 10+ tech domains based on submitted interests, with learning tracks, skill assessments, and mentor matches. LLM-generated recommendations mapped to localized course and documentation resources.
+`Next.js` `TypeScript` `LLM Integration` `Tailwind CSS`
 
-## 📊 GitHub Analytics
+**[Threat Protocol](https://ml-lac.vercel.app)** — AI Security Learning Roadmap
+A 30-month roadmap sequencing Linux, networking, CTF prep, model extraction, and LLM red-teaming into progressive stages, organized around real CVEs and vulnerability research.
+`React` `Tailwind CSS`
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=navaneet-mathad&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneet-mathad&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+### Achievements
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=navaneet-mathad&theme=github-dark&hide_border=true"/>
-</p>
+- University Academic Excellence Scholarship — top department standing
+- Cisco Python Essentials certification (Python fundamentals, OOP, algorithmic logic, scripting)
+- 35 public GitHub repositories, 7 profile stars
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneet-mathad&theme=github-compact&hide_border=true"/>
-</p>
+### GitHub Stats
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=navaneet-mathad&show_icons=true&theme=default&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneet-mathad&layout=compact&theme=default&hide_border=true"/>
+</div>
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 **AI Project** | Intelligent AI application solving a real-world problem. |
-| 🌐 **Full Stack App** | End-to-end web application with modern technologies. |
-| 📊 **Data Science** | Data analysis & ML pipeline project. |
-| 🚀 **Open Source** | Contributions and community-driven development. |
-
-> Replace these with your pinned repositories.
-
----
-
-## 📚 Currently Learning
-
-```text
-Data Structures & Algorithms  ███████████████████░ 90%
-Machine Learning              ████████████████░░░ 80%
-Artificial Intelligence       ███████████████░░░░ 75%
-Full Stack Development        ██████████████░░░░░ 70%
-Cloud & DevOps                █████████░░░░░░░░░░ 50%
-```
-
----
-
-## 🤝 Let's Connect
-
-<p>
-<a href="mailto:navaneetmathad866@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://www.linkedin.com/in/navaneetmathad/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/navaneet-mathad"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"></a>
-</p>
-
----
-
-> **"Build. Learn. Improve. Repeat."**
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:58A6FF&section=footer"/>
-</p>
+<div align="center">
+<sub>📍 Bengaluru, India · <a href="mailto:navaneetmathad866@gmail.com">navaneetmathad866@gmail.com</a></sub>
+</div>
