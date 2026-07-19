@@ -1,5 +1,3 @@
-# Hi 👋, I'm **Navaneet Mathad**
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Engineer+in+the+Making;Machine+Learning+%26+Data+Science;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
