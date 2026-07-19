@@ -33,7 +33,7 @@ I'm an aspiring **AI Engineer** with a passion for building intelligent products
 
 ## 🌟 Featured Projects
 
-### 🛡️ Orchids PhishGuard – Real-Time Protection
+### 🛡️ MailedIt– Real-Time Protection
 
 AI-powered phishing detection platform with real-time URL analysis, browser protection, and machine learning.
 
